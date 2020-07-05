@@ -1,0 +1,60 @@
+
+
+
+
+.bg{
+	background-color:red;
+}
+
+.part1 img{
+	width:100%;
+}
+
+
+.bg2{
+	background-image: url(../images/demo.jpg);
+    height: 500px;
+    background-size: cover;
+}
+
+.head-con h1{
+	
+	color: #fff;
+    font-size: 66px;
+    font-weight: 900;
+	
+}
+
+.head-con h3{
+	
+	    color: #fff;
+    font-size: 32px;
+    font-weight: 900;
+	
+}
+
+
+.head-con {
+    padding-top: 15%;
+    padding-left: 9%;
+}
+
+
+.bg3 h3{
+	    text-align: center;
+    color: #000;
+    font-size: 32px;
+    font-weight: 800;
+}
+
+.bg3 img {
+	width:100%;
+	
+}
+
+.bg3{
+	    width: 70%;
+    margin: 0px auto;
+	
+}
+
